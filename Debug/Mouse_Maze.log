@@ -1,2 +1,5 @@
-﻿  Main.cpp
+﻿  CustomMaze.cpp
+  Main.cpp
+  Mouse.cpp
+  Generating Code...
   Mouse_Maze.vcxproj -> D:\Programming_Portfolio\Mouse_Maze\Debug\Mouse_Maze.exe
